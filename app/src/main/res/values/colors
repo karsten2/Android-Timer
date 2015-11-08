@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- App Main Palette -->
+    <color name="primary">@color/blue_500</color>
+    <color name="primaryDark">@color/blue_700</color>
+    <color name="textPrimary">@color/text_white_text_icons_100</color>
+
+    <!-- Text -->
+    <!-- Text -->
+    <color name="text_black_text_87">#DE000000</color>
+    <color name="text_black_secondary_icon_54">#8A000000</color>
+    <color name="text_black_divider_12">#1F000000</color>
+
+    <color name="text_white_text_icons_100">#FFFFFF</color>
+
+    <!-- NavigationDrawer -->
+    <color name="navigation_drawer_background">#ffffffff</color>
+    <color name="nav_drawer_item_icon_normal">@color/text_black_secondary_icon_54</color>
+    <color name="nav_drawer_item_icon_selected">@color/blue_500</color>
+    <color name="nav_drawer_item_text_selected">@color/blue_500</color>
+    <color name="nav_drawer_section_subheader">@color/text_black_secondary_icon_54</color>
+    <color name="nav_drawer_inset_foreground">#4000</color>
+
+    <color name="nav_drawer_row_item_unselected">@color/white</color>
+    <color name="nav_drawer_row_item_selected">@color/grey_200</color>
+    <color name="nav_drawer_row_item_pressed">@color/grey_400</color>
+
+    <!-- Grey -->
+    <color name="grey_200">#eeeeee</color>
+    <color name="grey_400">#bdbdbd</color>
+
+    <!-- Blue -->
+    <color name="blue_500">#2196f3</color>
+    <color name="blue_700">#1976D2</color>
+
+    <!-- Black and White -->
+    <color name="white">#FFFFFF</color>
+    <color name="black_alpha_50">#80000000</color>
+    <color name="black_alpha_0">#00000000</color>
+
+    <!-- Material Palette -->
+    <!-- Light Blue + Light Green -->
+    <color name="lb_lg_primary">#03A9F4</color>
+    <color name="lb_lg_primary_dark">#0288D1</color>
+    <color name="lb_lg_primary_light">#B3E5FC</color>
+    <color name="lb_lg_accent">#8BC34A</color>
+    <color name="lb_lg_primary_text">#212121</color>
+    <color name="lb_lg_secondary_text">#727272</color>
+    <color name="lb_lg_icons">#FFFFFF</color>
+    <color name="lb_lg_divider">#B6B6B6</color>
+
+    <!-- Cyan + Amber -->
+    <color name="cy_am_primary">#00BCD4</color>
+    <color name="cy_am_primary_dark">#0097A7</color>
+    <color name="cy_am_primary_light">#B2EBF2</color>
+    <color name="cy_am_accent">#FFC107</color>
+    <color name="cy_am_primary_text">#212121</color>
+    <color name="cy_am_secondary_text">#727272</color>
+    <color name="cy_am_icons">#FFFFFF</color>
+    <color name="cy_am_divider">#B6B6B6</color>
+
+    <!-- Orange + Grey -->
+    <color name="or_gr_primary">#FF9800</color>
+    <color name="or_gr_primary_dark">#F57C00</color>
+    <color name="or_gr_primary_light">#FFE0B2</color>
+    <color name="or_gr_accent">#9E9E9E</color>
+    <color name="or_gr_primary_text">#212121</color>
+    <color name="or_gr_secondary_text">#727272</color>
+    <color name="or_gr_icons">#212121</color>
+    <color name="or_gr_divider">#B6B6B6</color>
+
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Timer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Toolbar titles -->
+    <string name="toolbar_title_home">Home</string>
+    <string name="toolbar_title_explore">Explore</string>
+    <string name="toolbar_title_about">About</string>
+    <string name="toolbar_title_account">Account</string>
+    <string name="toolbar_title_help_and_fedback">Help&amp;Feedback</string>
+
+    <!-- Navigation Drawer -->
+    <string name="nav_drawer_item_home">Home</string>
+    <string name="nav_drawer_item_explore">Explore</string>
+    <string name="nav_drawer_help_and_feedback"><![CDATA[Help & feedback]]></string>
+    <string name="nav_drawer_about">About</string>
+    <string name="navigation_drawer_opened">The navigation drawer is opened</string>
+    <string name="navigation_drawer_closed">The navigation drawer is closed</string>
+    <string name="tag_nav_drawer_main_entry">nav_drawer_main_entry</string>
+    <string name="tag_nav_drawer_special_entry">nav_drawer_special_entry</string>
+    <string name="name">Max Power</string>
+    <string name="nav_timer">Timer</string>
+    <string name="nav_about">Über</string>
+    <string name="nav_history">Historie</string>
+</resources>
